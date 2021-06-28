@@ -16,3 +16,4 @@ elif do == "/":
 else:
     print("Что-то введено неправильно")
   
+k=input("press close to exit") 
